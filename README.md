@@ -22,6 +22,9 @@ Implementation of a Word2Vec model using the skip-gram in TensorFlow.
   - **Visualization:**  
     Use T-SNE to project the high-dimensional word embeddings into two dimensions to visualize clusters of similar words.
 
+## Checkpoints
+    https://drive.google.com/file/d/1BTOqMniVwUvnawi8tgMlRC6MNMKcE2Gq/view?usp=drive_link
+    
 ## Requirements
 
 - **Python 3.6+**
